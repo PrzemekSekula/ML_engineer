@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Added by Przemek, 
+week-3-analyze-sentiment-subreddit/credentials/
